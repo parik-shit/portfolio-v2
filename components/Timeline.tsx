@@ -36,7 +36,7 @@ const Timeline = (props: Props) => {
             {item?.tags.map((item, index) => (
               <p
                 key={item}
-                className=" bg-zinc-800 max-w-fit px-2 mt-2 text-sm rounded py-0.5 text-zinc-400 group-hover:bg-zinc-700/50 group-hover:text-zinc-300"
+                className=" bg-zinc-800 max-w-fit px-2 mt-2 text-sm rounded py-0.5 text-zinc-400 group-hover:bg-zinc-500/50 group-hover:text-zinc-300"
               >
                 {item}
               </p>
