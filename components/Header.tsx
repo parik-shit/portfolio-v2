@@ -1,9 +1,9 @@
 
 import { FiGithub, FiMail, FiTwitter,FiFileText } from "react-icons/fi";
-
-import { FaLinkedin } from "react-icons/fa"
-import {SiOpensea} from "react-icons/si";
 import SocialMediaIcon from "./SocialMediaIcon";
+import { FaLinkedin } from "react-icons/fa"
+
+
 type Props = {};
 
 const Header = (props: Props) => {
@@ -19,7 +19,7 @@ const Header = (props: Props) => {
           <SocialMediaIcon icon={FaLinkedin} name="LinkedIn" href="https://www.linkedin.com/in/parikshit-verma-598068201/"/>
           <SocialMediaIcon icon={FiMail} name="Gmail" href="mailto:parikshit152018@gmail.com"/>
           <SocialMediaIcon icon={FiFileText} name="Resume" href="mailto:parikshit152018@gmail.com"/>
-          <SocialMediaIcon icon={SiOpensea} name="Opensea" href="mailto:parikshit152018@gmail.com"/>
+          
           
         </div>
       </div>
