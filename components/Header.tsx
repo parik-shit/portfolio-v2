@@ -1,5 +1,5 @@
 
-import { FiGithub, FiMail, FiTwitter } from "react-icons/fi";
+import { FiGithub, FiMail, FiTwitter,FiFileText } from "react-icons/fi";
 import SocialMediaIcon from "./SocialMediaIcon";
 import { FaLinkedin } from "react-icons/fa"
 type Props = {};
