@@ -13,7 +13,7 @@ const Header = (props: Props) => {
         <h6 className="text-2xl  font-medium text-orange-800 ">
           Parikshit Verma
         </h6>
-        <div className="flex space-x-2">
+        <div className="flex space-x-3">
           <SocialMediaIcon icon={FiGithub} name="Github" href="https://github.com/parik-shit"/>
           <SocialMediaIcon icon={FiTwitter} name="Twitter" href="https://twitter.com/ParikshitVerma7"/>
           <SocialMediaIcon icon={FaLinkedin} name="LinkedIn" href="https://www.linkedin.com/in/parikshit-verma-598068201/"/>
