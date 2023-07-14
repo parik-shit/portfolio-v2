@@ -18,7 +18,7 @@ const Header = (props: Props) => {
           <SocialMediaIcon icon={FiTwitter} name="Twitter" href="https://twitter.com/ParikshitVerma7"/>
           <SocialMediaIcon icon={FaLinkedin} name="LinkedIn" href="https://www.linkedin.com/in/parikshit-verma-598068201/"/>
           <SocialMediaIcon icon={FiMail} name="Gmail" href="mailto:parikshit152018@gmail.com"/>
-          <SocialMediaIcon icon={FiFileText} name="Resume" href="mailto:parikshit152018@gmail.com"/>
+          <SocialMediaIcon icon={FiFileText} name="Resume" href="https://cdn.statically.io/gh/parik-shit/portfolio-v2/main/data/Resume%20updated%20Parikshit.pdf"/>
           
           
         </div>
