@@ -1,6 +1,6 @@
 
 import { FiGithub, FiMail, FiTwitter,FiFileText } from "react-icons/fi";
-import SocialMediaIcon from "./SocialMediaIcon";
+
 import { FaLinkedin } from "react-icons/fa"
 import {SiOpensea} from "react-icons/si";
 import SocialMediaIcon from "./SocialMediaIcon";
